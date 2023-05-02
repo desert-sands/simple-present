@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://simple-present.onrender.com/sitemap.xml
